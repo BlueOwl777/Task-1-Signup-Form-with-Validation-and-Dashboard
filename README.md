@@ -63,10 +63,13 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 Or click **Code → Download ZIP** on the GitHub repo page and extract it.
 
 ### 3. Move the Source-App file into XAMPP's htdocs folder
+Once you extract the file, copy the Source-Code folder and paste it into the XAMPP's htdos folder
 Copy the whole project folder into:
 - Windows: `C:\xampp\htdocs\`
 - Mac: `/Applications/XAMPP/xamppfiles/htdocs/`
 - Linux: `/opt/lampp/htdocs/`
+
+
 
 ### 4. Start Apache and MySQL
 Open the XAMPP Control Panel and click **Start** next to both **Apache** and **MySQL**. Both rows should turn green.
