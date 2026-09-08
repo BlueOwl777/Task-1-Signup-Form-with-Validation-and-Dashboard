@@ -62,7 +62,7 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 ```
 Or click **Code → Download ZIP** on the GitHub repo page and extract it.
 
-### 3. Move the project into XAMPP's htdocs folder
+### 3. Move the Source-App file into XAMPP's htdocs folder
 Copy the whole project folder into:
 - Windows: `C:\xampp\htdocs\`
 - Mac: `/Applications/XAMPP/xamppfiles/htdocs/`
