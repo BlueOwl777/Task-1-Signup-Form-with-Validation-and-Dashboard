@@ -76,7 +76,7 @@ Open the XAMPP Control Panel and click **Start** next to both **Apache** and **M
 
 ### 5. Create the database
 1. Go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin) in your browser.
-2. Click **New** in the left sidebar and create a database (the name must match `$database` in `config.php`).
+2. Click **New** in the left sidebar and create a database (the name must match `$database` in `config.php`, in this case being the name "users").
 3. Click into the new database, open the **Import** tab, choose the included `.sql` file, and click **Go**. This recreates the `users` table automatically — no need to build it by hand.
 
 ### 6. Check your database credentials
