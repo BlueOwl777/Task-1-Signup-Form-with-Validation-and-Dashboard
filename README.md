@@ -91,7 +91,7 @@ $database = "users_db";
 ### 7. Open the site
 Visit the project in your browser at:
 ```
-http://localhost/<your-project-folder-name>/index.php
+http://localhost/Source-app/
 ```
 
 ## Usage
